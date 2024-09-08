@@ -7,4 +7,4 @@ These are my recent personal projects.
   - Hangman game (Link TBA)
   - [Drinking Water Fountain Map](https://github.com/eesope/VanWater)
 
-Always open to hearing about opportunities. Please reach out through [email](mailto:sypark4107@gmail.com) or my [blog](https://eesope.github.io/about).
+Always open to hearing about opportunities. Please reach out through [email](mailto:sypark4107@gmail.com) or [my blog](https://eesope.github.io/about).
