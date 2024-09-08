@@ -1,9 +1,7 @@
 Last updated: 2024-Sep-07
 
-### Hello,
-
-I'm a software engineer who is interested in making games and tools. 
-
+Hello,
+I'm a software engineer who's interested in making games and tools. 
 These are my recent personal projects.
   - [Eisenhower matrix](https://chrome.google.com/webstore/detail/nmaaafdfgconkkghicmfajaijndfapjb)
   - Hangman game (Link TBA)
