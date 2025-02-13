@@ -3,7 +3,7 @@ Last updated: 2024-Sep-07
 Hello,
 I'm a software engineer who reasons through problems and solves them using technology.
 
-These are my recent personal projects.
+Some of my projects:
   - [Eisenhower matrix](https://chrome.google.com/webstore/detail/nmaaafdfgconkkghicmfajaijndfapjb)
   - [Drinking Water Fountain Map](https://github.com/eesope/VanWater)
 
